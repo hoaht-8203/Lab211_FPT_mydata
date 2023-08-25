@@ -1,0 +1,6 @@
+Car:C01,Ford Everest - updated,White,Ford - updated,1300.0,travel,2023
+Car:C02,Ford Tunner,Orange,Ford,1300.0,travel,2022
+Car:C03,Mitsubisi,Black,Mitsubisi,1600.0,travel,2022
+Car:C04,Range Rover,Black,Range Rover,2000.0,travel,2021
+Car:C05,Mazada 6,Red,Huyndai,650.0,travel,2023
+Motorbike:M01,Wave Alpha - updated,White,Honda - updated,13.0,175.0,true
